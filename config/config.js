@@ -1,0 +1,1 @@
+module.exports.SEND = '@este-es@-un-sed-proteccion@';
